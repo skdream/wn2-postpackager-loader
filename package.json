@@ -1,0 +1,24 @@
+{
+  "name": "wn2-postpackager-loader",
+  "version": "0.0.1",
+  "description": "resouce loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skdream/wn2-postpackager-loader.git"
+  },
+  "keywords": [
+    "wn2",
+    "fis3",
+    "loader"
+  ],
+  "author": "skdream",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/skdream/wn2-postpackager-loader/issues"
+  },
+  "homepage": "https://github.com/skdream/wn2-postpackager-loader"
+}
